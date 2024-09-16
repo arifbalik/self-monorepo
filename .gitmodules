@@ -1,0 +1,4 @@
+[submodule "west-manifest-t3"]
+	path = west-manifest-t3
+	url = https://github.com/arifbalik/west-manifest-t3.git
+	branch = main
